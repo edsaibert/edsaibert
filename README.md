@@ -8,9 +8,9 @@
 
 # 📊 GitHub Stats:
 <p>
-  <a justify-content="center" align="center" src="https://github-readme-stats.vercel.app/api?username=edsaibert&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a>
-  <a justify-content="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsaibert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a><br/>
-  <a justify-content="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsaibert&theme=dark&hide_border=false"></a><br/>
+  <a align="center" src="https://github-readme-stats.vercel.app/api?username=edsaibert&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a>
+  <a align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsaibert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a><br/>
+  <a align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsaibert&theme=dark&hide_border=false"></a><br/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
