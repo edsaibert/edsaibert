@@ -1,7 +1,7 @@
 
 <h3 align="center">Estudante de Ciência da Computação na Universidade Federal do Paraná</h3>
 
-<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F700&random=false&width=435&lines=Eduarda+Saibert+Coding+Space)(https://git.io/typing-svg)"/></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F700&random=false&width=435&lines=Eduarda+Saibert+Coding+Space)(git.io/typing-svg)"/></p>
 
 - 🔭 Atualmente em **C3SL - DEPP**
 
