@@ -1,6 +1,6 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F700&random=false&width=435&lines=Eduarda+Saibert+Coding+Space+:)"/></p>
 
-- 🔭 Atualmente em **C3SL - DEPP**
+- 🔭 Currently working on **C3SL - DEPP**
 
 - 🌱 In the moment I'm learning **OpenGL** and **C++**
 
